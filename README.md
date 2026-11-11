@@ -48,13 +48,13 @@ Two engineering choices follow from the rules above. It reads Apple Mail's own f
 
 ## Still open
 
-- Will I check mail less, or just check this app instead?
-- How often can the AI be wrong before it stops being worth it?
-- Can a phone app reach school mail at all?
-
+- How to build the personal file system? It still remains a lot of questions (like agent harness) even we constrained it to markdown files with Obsidian philosophy. 
+- How to control the boundaries of AI agent while keep human in control?
+- The privacy issue.
+  
 ## Get in touch
 
-If you are working on similar ideas or have thoughts on any of this, please open an issue here or reach me through my GitHub profile. I would be glad to hear from you.
+If you are working on similar ideas or have thoughts on any of this, please open an issue here or reach me through jsx7701@icloud.com.  I would be glad to hear from you.
 
 ---
 
